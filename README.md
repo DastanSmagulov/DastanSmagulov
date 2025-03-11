@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Frontend Developer at ZEED Tech<br>👯 I’m looking to collaborate as Frontend Developer<br><br> 🌐 ✔ Complete: Web intro - JavaScript/VanillaJS, CSS, HTML, ReactJS, Redux<br> 🌐 ✔ Complete: Web Advanced - NodeJS (Express), Typescript, Mongo Db
+I’m looking to collaborate as Frontend Developer<br><br> 🌐 ✔ Complete: Web intro - JavaScript/VanillaJS, CSS, HTML, ReactJS, Redux<br> 🌐 ✔ Complete: Web Advanced - NodeJS (Express), Typescript, Mongo Db.
 
 
 ## 🌐 Socials:
