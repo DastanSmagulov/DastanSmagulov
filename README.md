@@ -1,6 +1,7 @@
 # 💫 About Me:
-I’m looking to collaborate as Frontend Developer<br><br> 🌐 ✔ Complete: Web intro - JavaScript/VanillaJS, CSS, HTML, ReactJS, Redux<br> 🌐 ✔ Complete: Web Advanced - NodeJS (Express), Typescript, Mongo Db.<br> 🌐 ✔ Bachelor degree - Astana IT University.
+I’m looking to collaborate as Frontend Developer<br><br> 🌐 ✔ Complete: Nfactorial School Web intro - JavaScript/VanillaJS, CSS, HTML, ReactJS, Redux<br> 🌐 ✔ Complete: Nfactorial School Web Advanced - NodeJS (Express), Typescript, Mongo Db.<br> 🌐 ✔ Bachelor degree - Astana IT University.
 
+I have 5 years in frontend development, 2 years of commercial experience. My stack is NextJs, Typescript, Tailwind, Daysu UI, Redux or Mobx.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dastansmagulov) 
