@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m looking to collaborate as Frontend Developer<br><br> 🌐 ✔ Complete: Web intro - JavaScript/VanillaJS, CSS, HTML, ReactJS, Redux<br> 🌐 ✔ Complete: Web Advanced - NodeJS (Express), Typescript, Mongo Db. 🌐 ✔ Bachelor degree - Astana IT University.
+I’m looking to collaborate as Frontend Developer<br><br> 🌐 ✔ Complete: Web intro - JavaScript/VanillaJS, CSS, HTML, ReactJS, Redux<br> 🌐 ✔ Complete: Web Advanced - NodeJS (Express), Typescript, Mongo Db.<br> 🌐 ✔ Bachelor degree - Astana IT University.
 
 
 ## 🌐 Socials:
